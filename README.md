@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-🌱 I’m currently learning:
+#### 🌱 I’m currently learning:
 - 🦀 Systems Programming with Rust 
 - 🐍 Probabilistic Programming and Bayesian Inference with Numpyro
 - 🤖 Reinforcement Learning
 - 📸 Computer Vision
 
-- 🔭 I’m currently working on:
+#### 🔭 I’m currently working on:
 - `reverse-diff`: Neural network framework written from scratch in Rust
