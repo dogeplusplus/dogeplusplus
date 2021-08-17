@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 
 #### 🔭 I’m currently working on:
 - `reverse-diff`: Neural network framework written from scratch in Rust
+- `sac-walker`: Implementation of Soft Actor-Critic in JAX for walker agents
