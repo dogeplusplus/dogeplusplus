@@ -21,7 +21,3 @@ I'm a Machine Learning Engineer currently specialising in Computer Vision for th
 - 💬 LLMs
 - 📈 Causality and Bayesian Inference
 - 🦀 Rust
-
-#### ✨ Open to Collaborations
-I am open to interesting projects/opportunities that span the sciences, in general applications that have a positive impact on society. Feel free to reach out using one of the contacts on my website. Find out more at https://dogeplusplus.github.io/
-
